@@ -1,0 +1,46 @@
+[
+    {
+        "sid": 101,
+        "name": "Amrit",
+        "dept": "CSE",
+        "sem": "1st",
+        "marks": {
+            "subject1": 39,
+            "subject2": 90,
+            "subject3": 85
+        }
+    },
+    {
+        "sid": 102,
+        "name": "Priya",
+        "dept": "ECE",
+        "sem": "1st",
+        "marks": {
+            "subject1": 49,
+            "subject2": 80,
+            "subject3": 91
+        }
+    },
+    {
+        "sid": 103,
+        "name": "Sumit",
+        "dept": "CSE",
+        "sem": "1st",
+        "marks": {
+            "subject1": 19,
+            "subject2": 70,
+            "subject3": 78
+        }
+    },
+    {
+        "sid": 104,
+        "name": "Dipa",
+        "dept": "cs",
+        "sem": "2nd",
+        "marks": {
+            "subject1": 99,
+            "subject2": 79,
+            "subject3": 88
+        }
+    }
+]
