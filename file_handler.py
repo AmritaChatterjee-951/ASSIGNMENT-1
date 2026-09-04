@@ -46,7 +46,7 @@ def write_txt_file(file_location, student_records):
 if __name__ == "__main__":
     print("Testing write_txt_file:")
 
-    student_records = read_from_file("D:\AI OR ML\student record\__pycache__\students.txt")
+    student_records = read_from_file("students.txt")
 
     # write_txt_file("./data/test_students2.txt", student_records)
 
