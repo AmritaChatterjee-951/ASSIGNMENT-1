@@ -52,4 +52,4 @@ def write_json_file(file_path, student_list):
 
 # Test this file individually
 if __name__ == "__main__":
-    print(read_json_file("D:\AI OR ML\student record\__pycache__\students.json"))
+    print(read_json_file("students.json"))
