@@ -182,17 +182,17 @@ if __name__ == "__main__":
     manager.search_student(102)
 
     manager.save_to_file(
-        "./data/test_students.csv",
+        "students.csv",
         "csv"
     )
 
     manager.save_to_file(
-        "./data/test_students.json",
+        "students.json",
         "json"
     )
 
     manager.save_to_file(
-        "./data/test_students.txt",
+        "students.txt",
         "txt"
     )
 
